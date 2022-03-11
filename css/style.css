@@ -34,7 +34,8 @@ img{
 	margin-bottom: 40px;
 }
 .head img{
-	margin-right: 25px;
+	margin-right: -122px;
+    margin-left: 138px;
     width: 30%;
     border-radius: 7px;
 }
@@ -375,13 +376,15 @@ footer{
 @media screen and (max-width: 640px){ 
     .head h2{
         margin-top: -80px;
+	    margin-left: 15px;
     }
     .head p{
         margin-top: -30px;
+        margin-left: 15px;
     }
     .head img{
-        margin-top: -65px;
-        margin-left: 30px;
+        margin-top: -60px;
+        margin-left: 130px;
         width: 60px;
         height: 20px;
     }
